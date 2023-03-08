@@ -1,0 +1,24 @@
+{
+  "name": "random-str-efd",
+  "version": "1.0.0",
+  "description": "Random string message by Enzo Facundo Dillmann for Platzi exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillmanncode/random-str-efd.git"
+  },
+  "keywords": [],
+  "author": "Enzo Dillmann <dillmanncode1999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillmanncode/random-str-efd/issues"
+  },
+  "homepage": "https://github.com/dillmanncode/random-str-efd#readme",
+  "bin": {
+    "random-str-efd": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
